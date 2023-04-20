@@ -1858,25 +1858,3 @@ EXECUTE {end.bib}
 %% End of customized bst file
 %%
 %% End of file `apj.bst'.
-How to use WorPT
-Role Commitment (FTE)
-Y1 Y2 Y3 Total
-Work Efforts To Be Funded By This Proposal
-PI 0.20 0.30 0.20 0.70
-Sci-PI 0.36 0.25 0.20 0.81
-co-I(1) 0.05 0.05 0.17 0.27
-Total Funded Work Effort 0.61 0.60 0.57 1.78
-Work Efforts Proposed but NOT Funded By This Proposal
-PI 0.00 0.00 0.00 0.00
-Sci-PI 0.04 0.00 0.00 0.04
-co-I(1) 0.10 0.10 0.03 0.23
-Total Unfunded Work Effort 0.14 0.10 0.03 0.27
-Total Work Efforts Proposed (Funded + Unfunded)
-PI 0.20 0.30 0.20 0.70
-Sci-PI 0.40 0.25 0.20 0.85
-co-I(1) 0.15 0.15 0.20 0.50
-Total Funded + Unfunded Work Effort 0.75 0.70 0.60 2.05
-Table 1: Details of work efforts per member to be funded for the
-present proposal; Detailed responsibilities, tied to tasks and science
-goals, are provided in Sec. ??.
-1
