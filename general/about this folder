@@ -1,0 +1,3 @@
+This folder holds the files that should be used if the aas-style .cls file is NOT used but rather 
+        \documentclass[]{article}
+is used, instead.  The files in this folder are nearly identical to those in the aas-style folder, but have some additional packages that are inherently included in the aas class file that are needed for the WorPT tables to render as intended.
