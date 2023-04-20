@@ -41,7 +41,7 @@
 \newtcolorbox{callout}[4][]
 {colback=#3!5!white,colframe=#3!75!black,fonttitle=\bfseries,title={#4},#2,}
 
-\makeatletter \def\expinput#1{\@@input#1} \makeatother
+\makeatletter \def\expinput#1{\@@input#1} \makeatother  % needed when a partial table (without the top part) is inserted by \input
 
 % make the references appear as "blah blah blah [1,3] instead of (1;3)
 \setcitestyle{square}
