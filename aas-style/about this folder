@@ -1,1 +1,3 @@
 Files in the aas-style folder use my modified aastex631.cls file and other formatting files that are compatible. 
+
+The .cls file should not be used for publication preparation to be submitted to any journal requiring the AAS-style, as newer versions are now available, but this .cls file is fine for writing proposals and other documents that have no LaTex template. 
